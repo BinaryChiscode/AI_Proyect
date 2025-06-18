@@ -30,3 +30,6 @@ Una vez creado, lo abriremos y escribiremos el prompt de lo que de un sistema pa
 
 Y así el sistema de Copilot nos irá recomendando un códido en base a lo que le pedimos y solamente deberemos de presionar la tecla TAB para ir insertando el código que nos recomienda
 ![Creamos código](imagen/creacioncodigo.png)
+
+Una vez creado el código con ayuda de Copilot agreagamos los cambios al repositorio local con "git add ."
+![GitAdd](imagen/)
