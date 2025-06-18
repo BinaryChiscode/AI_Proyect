@@ -3,7 +3,7 @@
 Para poder realizar esta actividad formativa realice los siguientes pasos
 
 Primero que nada cree mi cuenta en GitHub con el correo institucional
-![Creación de cuenta](imagen/creamos_cuenta.png)
+![Creación de cuenta](imagen/creamoscuenta.png)
 
 
 Luego de crear nuestra cuenta la configuré para usar GitHub Copilot en visual studio code
