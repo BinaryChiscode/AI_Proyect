@@ -24,6 +24,7 @@ Luego de abrir la carpeta entramos y abrimos una terminal y clonamos el reposito
 Una termina de clonar crearemos un archivo python donde ingresaremos el prompt de lo que queramos crear con ayuda de Copilot
 ![Creamos archivo Pytho](imagen/creamos.py.png)
 Una vez creado, lo abriremos y escribiremos el prompt de lo que de un sistema para que Copilot nos ayude, en mi caso pediré un sistema de recomendaciones de animes
-![Creamos el prompt](imagen/prommpt.png)
+![Creamos el prompt](imagen/prompt.png)
+
 Y así el sistema de Copilot nos irá recomendando un códido en base a lo que le pedimos y solamente deberemos de presionar la tecla TAB para ir insertando el código que nos recomienda
-![Creamos código](imagen/creaciondogo.png)
+![Creamos código](imagen/creacioncodigo.png)
