@@ -32,4 +32,16 @@ Y así el sistema de Copilot nos irá recomendando un códido en base a lo que l
 ![Creamos código](imagen/creacioncodigo.png)
 
 Una vez creado el código con ayuda de Copilot agreagamos los cambios al repositorio local con "git add ."
-![GitAdd](imagen/)
+![GitAdd](imagen/guardamos.png)
+luego de guardar hacemos un commit
+![Commit](imagen/hacemos_commit.png)
+Al hacer el commit me saltó un error, donde decia que tenia que configurar git desde la terminal ya que no sabia quien estaba haciendo el commit o eso entendí yo, lo arregle de la siguiente manera
+![Solucion](imagen/arreglo_error.png)
+
+Luego de arreglar el error, finalemente hacemos un push, el cual me pidio autorizar con la siguientes pantallas
+![Conectamos GitHub](imagen/conectamos_github.png)
+![Autorizamos](imagen/autorizamos.png)
+
+
+Y se realiza el push, esto se confirma ya que la página del repositorio en github está el nuevo archivo que creamos, el sistema de recomendacion de animes
+![Verificamos](imagen/push_work.png)
