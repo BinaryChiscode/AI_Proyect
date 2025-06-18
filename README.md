@@ -3,4 +3,4 @@
 Para poder realizar esta actividad formativa realice los siguientes pasos
 
 Primero que nada cree mi cuenta en GitHub con el correo institucional
-![image.png](imagen/creamoscuenta.png)
+![image.png](imagen/Clonamos.png)
